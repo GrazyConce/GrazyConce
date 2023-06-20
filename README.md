@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, pessoal! 👋
+
+###### Graziéli Conceição Pinto
+Dando meus primeiros passos na programação
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grazyconce&show_icons=true&theme=radical)
+
+
 
 <!--
 **GrazyConce/GrazyConce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
